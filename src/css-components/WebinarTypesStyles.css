@@ -1,0 +1,37 @@
+.column {
+  background-color: #6ea400;
+  color: white;
+  height: 70px;
+  padding-top: 15px;
+  font-size: 20px;
+}
+
+.cardClass {
+  border: none;
+  border-radius: 0rem;
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.125);
+  width: 22rem;
+  margin-bottom: 20px;
+}
+
+.cardTitle {
+  color: darkblue;
+  font-weight: 400;
+}
+.anchorTitle {
+  text-decoration: none;
+}
+
+.cardClassWebinars {
+  border: none;
+  border-radius: 0rem;
+  /* box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.125); */
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+
+}
+.cardText{
+  font-size: 18px;
+  font-weight: 400;
+  color: #7ebb00;
+}
